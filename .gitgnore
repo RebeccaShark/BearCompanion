@@ -1,0 +1,17 @@
+.DS_Store
+.build/
+*.app/
+*.zip
+*.dmg
+*.log
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+.codex/
+.agents/
+work/
